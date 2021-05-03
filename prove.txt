@@ -1,0 +1,34 @@
+After completing the assignment, be sure to push to Github and Heroku.
+Please answer the questions in this text file and submit it to I-Learn.
+
+1. Copy and paste the URL for your web application (e.g., Heroku):
+https://sheltered-tundra-56384.herokuapp.com/ | https://git.heroku.com/sheltered-tundra-56384.git
+
+2. Copy and paste the URL for your source code repository (e.g., GitHub):
+https://github.com/tepedinoe/cse341-node
+
+3. Briefly list and describe the elements of the application that are functioning.
+I tried to develop with JSON but didn't work very well. 
+I gave up on creating with Json because the due date was close. 
+I decided to use  3 variable and use node.js to manipulate file and works fine.
+
+4. Briefly describe any pieces of the assignment that are not yet working correctly.
+I think that all the main features of the code are working well. 
+I am working to make the page look more professional. 
+I tried to develop using JSON but didn't work.
+
+5. Briefly describe the "coolest" thing you learned while completing this assignment.
+I improved my knowledge in manipulating JSON files and I really enjoyed learning a little EJS. 
+Very interesting. I wanted to improve my knowledge of this tool.
+
+6. If you could change this assignment to be more effective or helpful, what would you change?
+If I had a little more knowledge I would use a JSON file instead of using variables and html files as I did in this assignment.
+
+7. Please select the category you feel best describes your assignment:
+I think it was between item 3 and item 4, but if I will try to improve the code.
+ If everything is ok I will post a new version of this form with more updated information.
+   3 - Slightly deficient, but still mostly adequate
+   4 - Meets requirements
+
+8. Provide a brief justification (1-2 sentences) for selecting that category.
+Although I managed to reach the final goal of the activity, I think I still need to give a more professional touch to this code.

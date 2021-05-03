@@ -1,0 +1,21 @@
+
+<h1>Wecome to our application</h1>
+
+<form method="POST" id=calcvalues>
+    Name: <br>
+    <input type="text" placeholder="Type User Name" name="user" style="width: 340px;height: 30;"/>
+    <br><br>Book Name: <br>
+    <input type="text" placeholder="book" name="book" style="width: 340px;height: 30;" /> 
+    <br>   <br>
+    <label for="summary">Summary:</label><br>
+    <textarea name="summary" rows="5" cols="47">Summary</textarea>
+    <br> <br>
+    <input type="submit" value="Save" style="width: 340px;height: 30;font-size: large;"/> 
+
+    <br>
+    <h3> The following information was saved: </h3>
+       <p>The <%= user %> that read the <%= book %> 
+        wrote the following summary: <%= summary %>  </p>
+</form>
+<br> <a href="/" target="_blank"><input type="submit" value="Show the Register" style="width: 340px;height: 30;font-size: large;"/></a> <br>
+<br>
